@@ -27,7 +27,7 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
   - LinkedIn: https://www.linkedin.com/in/lucas-santiago-dev/
   - Telefone: +55(11)98351-3156
 
-😄 Pronouns / Pronomes: Ele | Dele // He | Him 
+😄 Pronouns / Pronomes: Ele | Dele // He | His
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathlucas&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rathlucas&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
