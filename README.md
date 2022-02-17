@@ -24,7 +24,7 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/lucas-santiago-santana/
+  - LinkedIn: https://www.linkedin.com/in/lucas-santiago-dev/
   - Telefone: +55(11)98351-3156
 
 😄 Pronouns / Pronomes: Ele | Dele // He | Him 
