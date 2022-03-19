@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 
 Hi, I am Lucas! / Oi, eu sou o Lucas!
 
-🌱 I’m currently learning / Atualmente estou aprendendo:
-  - Javascript & Frameworks (React, Next.js)
-  - HTML
+🔭 My technical skills / Minhas habilidades técnicas:
+  - Javascript (ES6)
+  - Semantic HTML / HTML Semântico
   - CSS
+  - Firebase
+
+🌱 I’m currently learning / Atualmente estou aprendendo:
+  - Node.js
+  - Bootstrap
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
