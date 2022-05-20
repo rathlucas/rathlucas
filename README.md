@@ -19,13 +19,15 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
   - Javascript (ES6)
+  - Jquery
   - Semantic HTML / HTML Semântico
   - CSS
+  - Bootstrap
   - Firebase
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
   - Node.js
-  - Bootstrap
+  - React
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
