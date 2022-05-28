@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
+  - React Native
   - Javascript (ES6)
   - Jquery
   - Semantic HTML / HTML Semântico
@@ -28,7 +29,6 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
 🌱 I’m currently learning / Atualmente estou aprendendo:
   - Node.js
   - React
-  - React Native
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
