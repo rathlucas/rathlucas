@@ -18,21 +18,26 @@ Here are some ideas to get you started:
 Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
-  - Node.js
+  - Node
+  - AdonisJs
   - React
   - React Native
+  - Next.js
   - Javascript (ES6)
-  - Jquery
+  - Typescript
   - Semantic HTML / HTML Semântico
-  - CSS
+  - CSS / SCSS / SASS
+  - ChakraUI
+  - TailwindCSS
+  - Styled Components
   - Bootstrap
   - Firebase
+  - MySQL / MariaDB
+  - MongoDB / Mongoose
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
-  - MongoDB
-  - Mongoose
-  - Typescript
-  - Java
+  - Go
+  - Elasticsearch / Kibana / Logstash
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
