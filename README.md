@@ -36,6 +36,8 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
   - MongoDB / Mongoose
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
+  - Rust
+  - PrismaORM
   - Go
   - Elasticsearch / Kibana / Logstash
 
