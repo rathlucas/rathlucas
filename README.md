@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
-  - Node
-  - AdonisJs
-  - React
+  - React.js
   - React Native
   - Next.js
-  - Javascript (ES6)
+  - Svelte
+  - Node.js / Nodestreams
+  - Adonis.js
+  - Javascript (ES8+)
   - Typescript
   - Semantic HTML / HTML Semântico
   - CSS / SCSS / SASS
@@ -31,15 +32,21 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
   - TailwindCSS
   - Styled Components
   - Bootstrap
-  - Firebase
+  - Firebase / Supabase
   - MySQL / MariaDB
+  - PostgreSQL
   - MongoDB / Mongoose
+  - Prisma ORM
+  - Lucid ORM
+  - RabbitMQ
+  - GIT & Github
+  - TDD
+  - Unit Tests with JEST / Testes Unitários com JEST
+  - Docker / Docker Compose
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
   - Rust
-  - PrismaORM
   - Go
-  - Elasticsearch / Kibana / Logstash
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
