@@ -18,35 +18,42 @@ Here are some ideas to get you started:
 Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
-  - React.js
-  - React Native
-  - Next.js
-  - Svelte
-  - Node.js / Nodestreams
-  - Adonis.js
-  - Javascript (ES8+)
-  - Typescript
-  - Semantic HTML / HTML Semântico
-  - CSS / SCSS / SASS
-  - ChakraUI
-  - TailwindCSS
-  - Styled Components
-  - Bootstrap
-  - Firebase / Supabase
-  - MySQL / MariaDB
-  - PostgreSQL
-  - MongoDB / Mongoose
-  - Prisma ORM
-  - Lucid ORM
-  - RabbitMQ
-  - GIT & Github
-  - TDD
-  - Unit Tests with JEST / Testes Unitários com JEST
-  - Docker / Docker Compose
+   ■ Programming languages / Linguagens:
+     - Javascript (ES8+) / Typescript
+     - Python
+
+   ■ Front-end:
+     - React.js
+     - Next.js
+     - Semantic HTML / HTML Semântico
+     - SEO
+     - CSS / SCSS / SASS
+     - TailwindCSS / Chakra UI / Styled Components / Bootstrap 3
+
+   ■ Back-end:
+     - Node.js
+     - Express.js
+     - Adonis.js
+     - Firebase / Supabase
+     - MySQL / MariaDB
+     - PostgreSQL
+     - MongoDB / Mongoose
+     - Prisma ORM
+     - Lucid ORM
+     - RabbitMQ
+     - Docker / Docker Compose
+
+   ■ Others / Outros:
+     - GIT & Github
+     - Jest
+     - TDD
+     - Unit Tests
+     - Clean Architecture / Domain Driven Design
+     - SOLID
+
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
   - Rust
-  - Go
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
