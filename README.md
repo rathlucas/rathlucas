@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
-   ■ Programming languages / Linguagens:
+   - Programming languages / Linguagens:
      - Javascript (ES8+) / Typescript
      - Python
 
-   ■ Front-end:
+   - Front-end:
      - React.js
      - Next.js
      - Semantic HTML / HTML Semântico
@@ -30,7 +30,7 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
      - CSS / SCSS / SASS
      - TailwindCSS / Chakra UI / Styled Components / Bootstrap 3
 
-   ■ Back-end:
+   - Back-end:
      - Node.js
      - Express.js
      - Adonis.js
@@ -43,7 +43,7 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
      - RabbitMQ
      - Docker / Docker Compose
 
-   ■ Others / Outros:
+   - Others / Outros:
      - GIT & Github
      - Jest
      - TDD
