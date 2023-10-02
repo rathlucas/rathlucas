@@ -19,8 +19,9 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
    - Programming languages / Linguagens:
-     - Javascript (ES8+) / Typescript
-     - Python
+      - Java SE / EE
+      - Javascript (ES8+) | Typescript
+      - Python
 
    - Front-end:
      - React.js
@@ -31,18 +32,32 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
      - TailwindCSS / Chakra UI / Styled Components / Bootstrap 3
 
    - Back-end:
-     - Node.js
-     - Express.js
-     - Adonis.js
-     - Firebase / Supabase
-     - MySQL / MariaDB
-     - PostgreSQL
-     - MongoDB / Mongoose
-     - Prisma ORM
-     - Lucid ORM
-     - RabbitMQ
-     - Docker / Docker Compose
-
+      - Spring Boot
+      - Spring Security
+      - Spring Web MVC
+      - Spring Data
+      - Spring Cloud
+      - Spring Test / JUnit
+      - Node.js
+      - Express.js
+      - Adonis.js
+      - H2 Database
+      - Firebase | Supabase
+      - MySQL | MariaDB
+      - PostgreSQL
+      - MongoDB | Mongoose
+      - Prisma
+      - Lucid ORM
+      - RabbitMQ
+      - Docker | Docker Compose
+      - GraphQL
+      - AWS EC2
+      - AWS Lambda
+      - AWS SQS
+      - AWS SNS
+      - CI / CD Pipelines
+      - Github Actions
+     
    - Others / Outros:
      - GIT & Github
      - Jest
@@ -53,7 +68,8 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
-  - Rust
+      - Rust
+      - C++
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
