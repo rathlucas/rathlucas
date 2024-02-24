@@ -73,8 +73,8 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
    - Design Patterns (GOF)
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
-      - Rust
-      - C++
+   - Rust
+   - C++
 
 📫 How to reach me / Como me contatar:
   - Email: lucin189@gmail.com
