@@ -19,53 +19,58 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
 
 🔭 My technical skills / Minhas habilidades técnicas:
    - Programming languages / Linguagens:
-      - Java SE / EE
-      - Javascript (ES8+) | Typescript
-      - Python
+    - Java SE | EE
+    - Javascript (ES8+) | Typescript
+    - Python
 
-   - Front-end:
-     - React.js
-     - Next.js
-     - Semantic HTML / HTML Semântico
-     - SEO
-     - CSS / SCSS / SASS
-     - TailwindCSS / Chakra UI / Styled Components / Bootstrap 3
+■ Technologies / Tecnologias:
+    - Spring Boot
+    - Spring Security
+    - Spring Web MVC
+    - Spring Data
+    - Spring Cloud
+    - Spring Test / JUnit
+    - Hibernate
+    - Webflux / Reactor
+    - Mockito
+    - DBUnit
+    - Node.js
+    - RabbitMQ
+    - GraphQL
 
-   - Back-end:
-      - Spring Boot
-      - Spring Security
-      - Spring Web MVC
-      - Spring Data
-      - Spring Cloud
-      - Spring Test / JUnit
-      - Node.js
-      - Express.js
-      - Adonis.js
-      - H2 Database
-      - Firebase | Supabase
-      - MySQL | MariaDB
-      - PostgreSQL
-      - MongoDB | Mongoose
-      - Prisma
-      - Lucid ORM
-      - RabbitMQ
-      - Docker | Docker Compose
-      - GraphQL
-      - AWS EC2
-      - AWS Lambda
-      - AWS SQS
-      - AWS SNS
-      - CI / CD Pipelines
-      - Github Actions
-     
-   - Others / Outros:
-     - GIT & Github
-     - Jest
-     - TDD
-     - Unit Tests
-     - Clean Architecture / Domain Driven Design
-     - SOLID
+ ■ Databases / Bancos de Dados:
+    - PostgreSQL
+    - MongoDB | Mongoose
+    - H2 Database
+    - Firebase | Supabase
+    - Amazon DynamoDB
+    - MySQL | MariaDB
 
+ ■ Cloud:
+    - EC2 | EKS | ECS
+    - RDS 
+    - EFS 
+    - ELB
+    - SQS | SNS 
+    - VPC 
+    - S3 
+    - Lambda
+
+ ■ DevOps:
+    - CI / CD Pipelines
+    - Github Actions
+    - Gitlab CI
+    - Docker | Docker Compose
+
+ ■ Others / Outros:
+    - Git & Github
+    - TDD
+    - Unit Tests / Testes Unitários
+    - Integration Tests / Testes de Integração
+    - Fnctional Tests / Testes Funcionais
+    - Clean Arch / Arquitetura Limpa | Domain Driven Design
+    - SOLID
+    - Design Patterns (GOF)
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
       - Rust
