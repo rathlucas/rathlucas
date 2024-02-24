@@ -24,53 +24,53 @@ Hi, I am Lucas! / Oi, eu sou o Lucas!
     - Python
 
 ■ Technologies / Tecnologias:
-    - Spring Boot
-    - Spring Security
-    - Spring Web MVC
-    - Spring Data
-    - Spring Cloud
-    - Spring Test / JUnit
-    - Hibernate
-    - Webflux / Reactor
-    - Mockito
-    - DBUnit
-    - Node.js
-    - RabbitMQ
-    - GraphQL
+   - Spring Boot
+   - Spring Security
+   - Spring Web MVC
+   - Spring Data
+   - Spring Cloud
+   - Spring Test / JUnit
+   - Hibernate
+   - Webflux / Reactor
+   - Mockito
+   - DBUnit
+   - Node.js
+   - RabbitMQ
+   - GraphQL
 
  ■ Databases / Bancos de Dados:
-    - PostgreSQL
-    - MongoDB | Mongoose
-    - H2 Database
-    - Firebase | Supabase
-    - Amazon DynamoDB
-    - MySQL | MariaDB
+   - PostgreSQL
+   - MongoDB | Mongoose
+   - H2 Database
+   - Firebase | Supabase
+   - Amazon DynamoDB
+   - MySQL | MariaDB
 
  ■ Cloud:
-    - EC2 | EKS | ECS
-    - RDS 
-    - EFS 
-    - ELB
-    - SQS | SNS 
-    - VPC 
-    - S3 
-    - Lambda
+   - EC2 | EKS | ECS
+   - RDS 
+   - EFS 
+   - ELB
+   - SQS | SNS 
+   - VPC 
+   - S3 
+   - Lambda
 
  ■ DevOps:
-    - CI / CD Pipelines
-    - Github Actions
-    - Gitlab CI
-    - Docker | Docker Compose
+   - CI / CD Pipelines
+   - Github Actions
+   - Gitlab CI
+   - Docker | Docker Compose
 
  ■ Others / Outros:
-    - Git & Github
-    - TDD
-    - Unit Tests / Testes Unitários
-    - Integration Tests / Testes de Integração
-    - Fnctional Tests / Testes Funcionais
-    - Clean Arch / Arquitetura Limpa | Domain Driven Design
-    - SOLID
-    - Design Patterns (GOF)
+   - Git & Github
+   - TDD
+   - Unit Tests / Testes Unitários
+   - Integration Tests / Testes de Integração
+   - Functional Tests / Testes Funcionais
+   - Clean Arch / Arquitetura Limpa | Domain Driven Design
+   - SOLID
+   - Design Patterns (GOF)
 
 🌱 I’m currently learning / Atualmente estou aprendendo:
       - Rust
